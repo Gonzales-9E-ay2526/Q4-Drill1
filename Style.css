@@ -1,0 +1,27 @@
+body{
+    background-image: url(What-is-a-Kilowatt-1.png);
+    background-position: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  width: 100%;           
+  font-size: 52px;
+  font-family: monospace; 
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.container {
+  background: #fffb00;
+  width: 450px;        
+  padding: 20px 30px;
+  border-radius: 50px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  gap: 15px;
+}
+
